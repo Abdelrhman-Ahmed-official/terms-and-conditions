@@ -4,7 +4,7 @@
 
 These Terms of Use ("Terms") are an agreement between you and **Abdelrhman Ahmed** ("we," "us," or "our"), based in Egypt, and govern your use of our mobile applications on iOS and Android (the "App"). Please read them carefully. By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
-Ourgh [Privacy Policy]https://abdelrhman-ahmed-official.github.io/Privacy-Policy/ explains how we handle information and forms part of these Terms.
+Ourgh [Privacy Policy](https://abdelrhman-ahmed-official.github.io/Privacy-Policy/) explains how we handle information and forms part of these Terms.
 
 ---
 
