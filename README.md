@@ -113,6 +113,6 @@ These Terms are governed by the laws of Egypt, without regard to conflict-of-law
 
 ## 12. Contact Us
 
-**Developer:** Abdelrhman Ahmed
-**Location:** Egypt
+**Developer:** Abdelrhman Ahmed 
+**Location:** Egypt 
 **Email:** synapselabssupport@gmail.com
